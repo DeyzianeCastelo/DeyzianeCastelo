@@ -1,8 +1,8 @@
 ## Hi! I'm Deyziane Castelo 👋 
  <div>
   <a href="https://github.com/DeyzianeCastelo">
-  <img  width="460em" height="150em" src="https://github-readme-stats.vercel.app/api?username=DeyzianeCastelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  width="460em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyzianeCastelo&layout=compact&langs_count=7&theme=dracula"/>
+  <img  width="380em" height="150em" src="https://github-readme-stats.vercel.app/api?username=DeyzianeCastelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img  width="330em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyzianeCastelo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
