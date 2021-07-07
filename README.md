@@ -1,17 +1,15 @@
 ## Hi! I'm Deyziane Castelo 👋 
  <div>
   <a href="https://github.com/DeyzianeCastelo">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=DeyzianeCastelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyzianeCastelo&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="200" height="150em" src="https://github-readme-stats.vercel.app/api?username=DeyzianeCastelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="200" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyzianeCastelo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="right" alt="git-gif" width="250" height="150" src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?">
+  <img align="right" alt="git-gif" width="220" height="120" src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?">
 </div>
   
-## 
-  Connect with me:
-##  
+## Connect with me:  
  
 <div> 
   <a href = "mailto:deyziane.castelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
